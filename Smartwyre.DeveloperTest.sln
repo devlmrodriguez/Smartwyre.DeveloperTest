@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ECE2D32E-18E9-4BD9-9EF7-7DD27719D5B2}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartwyre.DeveloperTest.Runner", "Smartwyre.DeveloperTest.Runner\Smartwyre.DeveloperTest.Runner.csproj", "{9C165761-CB14-4120-9DF7-D2BCF0F8225C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartwyre.DeveloperTest.Tests", "Smartwyre.DeveloperTest.Tests\Smartwyre.DeveloperTest.Tests.csproj", "{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartwyre.DeveloperTest.Domain", "Smartwyre.DeveloperTest.Domain\Smartwyre.DeveloperTest.Domain.csproj", "{8E7ABE27-A391-4FF7-B755-894DDF39783B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartwyre.DeveloperTest.Application", "Smartwyre.DeveloperTest.Application\Smartwyre.DeveloperTest.Application.csproj", "{B75CB5E8-702C-475C-8CA7-B2EB76A0066A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartwyre.DeveloperTest.Infrastructure", "Smartwyre.DeveloperTest.Infrastructure\Smartwyre.DeveloperTest.Infrastructure.csproj", "{6D5AC523-B9CD-47FA-AC40-A2875FB5A402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C165761-CB14-4120-9DF7-D2BCF0F8225C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C165761-CB14-4120-9DF7-D2BCF0F8225C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C165761-CB14-4120-9DF7-D2BCF0F8225C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C165761-CB14-4120-9DF7-D2BCF0F8225C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7ABE27-A391-4FF7-B755-894DDF39783B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7ABE27-A391-4FF7-B755-894DDF39783B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7ABE27-A391-4FF7-B755-894DDF39783B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7ABE27-A391-4FF7-B755-894DDF39783B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75CB5E8-702C-475C-8CA7-B2EB76A0066A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75CB5E8-702C-475C-8CA7-B2EB76A0066A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75CB5E8-702C-475C-8CA7-B2EB76A0066A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75CB5E8-702C-475C-8CA7-B2EB76A0066A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5AC523-B9CD-47FA-AC40-A2875FB5A402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5AC523-B9CD-47FA-AC40-A2875FB5A402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5AC523-B9CD-47FA-AC40-A2875FB5A402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5AC523-B9CD-47FA-AC40-A2875FB5A402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9021DC-300B-4094-963E-D9ACBA35615A}
+	EndGlobalSection
+EndGlobal

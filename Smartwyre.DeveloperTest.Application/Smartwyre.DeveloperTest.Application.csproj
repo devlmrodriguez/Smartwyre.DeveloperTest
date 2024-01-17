@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Smartwyre.DeveloperTest.Domain\Smartwyre.DeveloperTest.Domain.csproj" />
+    <ProjectReference Include="..\Smartwyre.DeveloperTest.Infrastructure\Smartwyre.DeveloperTest.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

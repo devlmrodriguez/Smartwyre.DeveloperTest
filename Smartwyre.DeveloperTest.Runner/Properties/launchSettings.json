@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Smartwyre.DeveloperTest.Runner": {
+      "commandName": "Project",
+      "commandLineArgs": "calculate-rebate --rebate-id 1 --product-id 1 --volume 10.0"
+    }
+  }
+}
